@@ -44,3 +44,53 @@ Employees can update limited information such as:
 1.Address 2.Phone number 3.Profile picture
 
 Admins can edit all employee details.
+
+🕒 Attendance Management
+
+1. Daily attendance view
+2. Weekly attendance view
+3. Employee check-in/check-out
+4. Attendance status tracking:
+
+  1. Present
+  2. Absent
+  3. Half-day
+  4. Leave
+5. Employees can view only their own attendance
+6. Admin/HR can view attendance for all employees
+
+🏖️ Leave & Time-Off Management
+
+Employees can submit leave requests by:
+
+1. Selecting leave type: Paid, Sick, or Unpaid
+2. Choosing a date range
+3. Adding remarks
+
+Leave requests can have the following statuses:
+
+1. Pending
+2. Approved
+3. Rejected
+
+Admin/HR can:
+
+1. View all leave requests
+2. Approve or reject requests
+3. Add comments
+
+Approved changes are reflected in employee records.
+
+💰 Payroll Management
+
+Employee
+
+1. View payroll information
+2. Payroll data is read-only
+
+Admin / HR
+
+1. View payroll for all employees
+2. Update salary structures
+3. Maintain payroll accuracy
+
