@@ -14,7 +14,14 @@ The system supports two primary user roles: Employee and Admin/HR Officer.
 
 🔐 Authentication & Authorization
 
-User registration using Employee ID, email, password, and role 2.Secure password requirements 3.Email verification 4.Sign in with email and password 5.Error handling for incorrect credentials 6.Role-based access control 7.Dashboard redirection after successful login
+1.User registration using Employee ID, email, password, and role 
+2.Secure password requirements 
+3.Email verification 
+4.Sign in with email and password 
+5.Error handling for incorrect credentials 
+6.Role-based access control 
+7.Dashboard redirection after successful login
+
 👥 User Roles
 
 1.Admin / HR Officer 
