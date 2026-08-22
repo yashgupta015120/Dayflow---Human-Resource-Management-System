@@ -94,3 +94,20 @@ Admin / HR
 2. Update salary structures
 3. Maintain payroll accuracy
 
+ 
+🔔 Additional Features
+
+1. Email and notification alerts
+2. Analytics and reports dashboard
+3. Salary slip reports
+4. Attendance reports
+
+🚀 Future Enhancements
+
+Future versions of Dayflow can expand the system with additional HR automation, reporting, and employee management capabilities.
+
+📄 Project Purpose
+
+Dayflow aims to provide a centralized platform that simplifies HR operations and improves the management of employees, attendance, leave, payroll visibility, and approval workflows.
+
+Dayflow — Every workday, perfectly aligned.
